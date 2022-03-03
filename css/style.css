@@ -1,6 +1,8 @@
 .navbar_header ul {
     border: 3px solid black;
     font-size: xx-large;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .navbar li {
