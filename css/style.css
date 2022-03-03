@@ -5,8 +5,7 @@
 
 .navbar ul{
     border: 3px solid black;
-    margin: 0 0 0 0;
-    padding: 0 0 0 0;
+
 }
 .navbar li {
     display: inline-block;
