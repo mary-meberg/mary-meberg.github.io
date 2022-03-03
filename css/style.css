@@ -1,10 +1,9 @@
 .navbar_header ul {
     border: 3px solid black;
-    font-size: large;
-    padding-left: 10px;
-    padding-right: 10px;
+    font-size: xx-large;
 }
 
 .navbar li {
     display: inline-block;
+    margin:0 0 10px 0
 }
