@@ -1,11 +1,8 @@
-.navbar_header {
+.header_navbar {
     border: 3px solid black;
     display: flex;
 }
 
-.navbar_header ul {
-    
-}
 
 .navbar li {
     display: inline-block;
