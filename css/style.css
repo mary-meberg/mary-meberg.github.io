@@ -1,3 +1,6 @@
 .navbar li {
     display: inline;
+    border: 3px solid black;
+    font-size: large;
+    padding-left: 10px;
 }
