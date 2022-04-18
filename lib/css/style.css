@@ -364,4 +364,5 @@ overflow: hidden;
     margin: 0 0 0 0;
     font-size: x-large;
     padding: 15px;
+    height: fit-content;
   }
