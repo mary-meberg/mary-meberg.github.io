@@ -365,5 +365,16 @@ overflow: hidden;
     margin: 0 0 0 0;
     font-size: x-large;
     padding: 15px;
-    height: 100px;
+    height: 50px;
+  }
+
+  .project_nav li:hover{
+    text-decoration: underline;
+    background-color: aqua;
+    color: white;
+  }
+
+  .project_nav form:hover{
+    text-decoration: underline;
+    color: white;
   }
