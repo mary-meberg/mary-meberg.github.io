@@ -8,6 +8,10 @@
     background: transparent;
 }
 
+html, body, form, main {
+    min-height: 100vh;
+}
+
 .header-name h1 a {
     text-decoration: none;
     color:  black;
