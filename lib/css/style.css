@@ -354,6 +354,7 @@ overflow: hidden;
       left:0;
       object-fit: fill;
       overflow: hidden;
+      height: 450px;
   }
  
   .project_nav {
