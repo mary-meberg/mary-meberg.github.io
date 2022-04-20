@@ -25,17 +25,17 @@ function showProjects() {
   var slide2 = document.getElementById("no-js-slider-2")
   var slide3 = document.getElementById("no-js-slider-3")
 
-  if (document.URL == "https://mary-meberg.github.io/projects/index.html#no-js-slider-1") {
+  if (window.location.hrefL == "https://mary-meberg.github.io/projects/index.html#no-js-slider-1") {
     slide2.style.visibility='hidden'
     slide3.style.visibility='hidden' 
   } 
   
-  if (document.URL == "https://mary-meberg.github.io/projects/index.html#no-js-slider-2"){
+  if (window.location.href == "https://mary-meberg.github.io/projects/index.html#no-js-slider-2"){
     slide1.style.visibility='hidden'
     slide3.style.visibility='hidden' 
   }
 
-  if (document.URL == "https://mary-meberg.github.io/projects/index.html#no-js-slider-3"){
+  if (window.location.href == "https://mary-meberg.github.io/projects/index.html#no-js-slider-3"){
     slide1.style.visibility='hidden'
     slide2.style.visibility='hidden' 
   }
