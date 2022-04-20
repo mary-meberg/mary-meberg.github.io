@@ -118,7 +118,7 @@ html, body, form, main {
 }
 
 .experience_header {
-    margin-left: 1em;
+    margin-left: 2.5em;
     font-size: x-large;
     margin-bottom: 0.5em;
     margin-top: 2em;
@@ -381,28 +381,4 @@ overflow: hidden;
   .project_nav form:hover{
     text-decoration: underline;
     color: white;
-  }
-
-  /* ===== CONTACT =====*/
-.contact__input{
-    width: 100%;
-    font-size: var(--normal-font-size);
-    font-weight: var(--font-semi);
-    padding: 1rem;
-    border-radius: .5rem;
-    border: 1.5px solid var(--second-color);
-    outline: none;
-    margin-bottom: var(--mb-4);
-  }
-  .contact__button{
-    display: block;
-    border: none;
-    outline: none;
-    font-size: var(--normal-font-size);
-    cursor: pointer;
-    margin-left: auto;
-  }
-
-  .contact__form{
-    width: 360px;
   }
